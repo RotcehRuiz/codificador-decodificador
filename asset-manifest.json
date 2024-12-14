@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/codificador-decodificador/static/css/main.31d1d562.css",
+    "main.js": "/codificador-decodificador/static/js/main.60a92d0e.js",
+    "static/js/488.99d4c3a0.chunk.js": "/codificador-decodificador/static/js/488.99d4c3a0.chunk.js",
+    "index.html": "/codificador-decodificador/index.html",
+    "main.31d1d562.css.map": "/codificador-decodificador/static/css/main.31d1d562.css.map",
+    "main.60a92d0e.js.map": "/codificador-decodificador/static/js/main.60a92d0e.js.map",
+    "488.99d4c3a0.chunk.js.map": "/codificador-decodificador/static/js/488.99d4c3a0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d1d562.css",
+    "static/js/main.60a92d0e.js"
+  ]
+}
