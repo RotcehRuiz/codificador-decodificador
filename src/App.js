@@ -24,7 +24,7 @@ const App = () => {
   const decodificar = (texto) => {
     const reglasInvertidas = {
       "qwer": "a",
-      "asdf": "e",
+      "asdf": "e"
       "zxcv": "i",
       "yuio": "o",
       "nhyt": "u",
